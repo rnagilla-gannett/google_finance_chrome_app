@@ -1,0 +1,17 @@
+{
+  "name": "Digg Reader",
+  "description": "Read your RSS with Digg",
+  "manifest_version": 2,
+  "version": "1",
+  "app": {
+    "urls": [
+      "*://digg.com/reader"
+    ],
+    "launch": {
+      "web_url": "http://digg.com/reader"
+    }
+  },
+  "icons": {
+    "128": "digg-logo.png"
+  }
+}
