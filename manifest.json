@@ -1,17 +1,17 @@
 {
-  "name": "Digg Reader",
-  "description": "Read your RSS with Digg",
+  "name": "Google Finance Portfolio",
+  "description": "ROTH IRA Portfolio",
   "manifest_version": 2,
   "version": "1",
   "app": {
     "urls": [
-      "*://digg.com/reader"
+      "*://google.com/finance/portfolio?&pid=15"
     ],
     "launch": {
-      "web_url": "http://digg.com/reader"
+      "web_url": "http://www.google.com/finance/portfolio?&pid=15"
     }
   },
   "icons": {
-    "128": "digg-logo.png"
+    "128": "roth_ira.jpeg"
   }
 }

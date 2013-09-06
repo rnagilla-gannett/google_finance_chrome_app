@@ -1,9 +1,7 @@
-# Digg Reader Chrome App
+# Google Finance Chrome App
 
 ## Overview
-Digg reader is nice and sleek RSS reader after Google Reader has been closed. The only disadvantage is that 
-it doesn't have chrome hosted app, such that we can install and have a big icon of a app. This repository 
-solves this problem until digg adds their application to the chrome store.
+Google Finance Portfolio link as chrome app.
 
 ## How to install
 
